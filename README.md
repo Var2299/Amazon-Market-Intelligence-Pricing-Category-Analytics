@@ -90,10 +90,10 @@ Below are some of the generated graphs from the analysis:
 
 | Visualization                     | Preview                                                                 |
 | --------------------------------- | ----------------------------------------------------------------------- |
-| Price Distribution Box Plots      | ![Price Distribution Box Plots](assets/price_distribution_boxplots.png) |
-| Market Share Pie Chart            | ![Market Share Pie Chart](assets/market_share_pie_chart.png)            |
-| Price vs Competition Scatter Plot | ![Price vs Competition Scatter Plot](assets/price_vs_competition.png)   |
-| Premium Category Bar Chart        | ![Premium Category Bar Chart](assets/premium_category_bar_chart.png)    |
+| Price Distribution Box Plots      | <img width="952" height="876" alt="image" src="https://github.com/user-attachments/assets/b3f7117a-157a-453e-947d-23a5e79586dd" />|
+| Market Share Pie Chart            | !<img width="952" height="692" alt="image" src="https://github.com/user-attachments/assets/d73b2d00-71f5-4589-aade-98a512778bdd" />|
+| Price vs Competition Scatter Plot | <img width="863" height="737" alt="image" src="https://github.com/user-attachments/assets/035f4cba-5eb6-4eda-a75a-8535d67a7d6f" />|
+| Premium Category Bar Chart        | <img width="1263" height="752" alt="image" src="https://github.com/user-attachments/assets/d303d798-e848-4ad0-aa5c-887334ca8d59" />|
 
 ---
 
