@@ -84,6 +84,17 @@ E‑commerce businesses and sellers often struggle with:
 * Horizontal bar chart highlighting highest‑priced categories.
 * Gradient styling for quick visual ranking.
 
+## 🖼️ Visualization Previews
+
+Below are some of the generated graphs from the analysis:
+
+| Visualization                     | Preview                                                                 |
+| --------------------------------- | ----------------------------------------------------------------------- |
+| Price Distribution Box Plots      | ![Price Distribution Box Plots](assets/price_distribution_boxplots.png) |
+| Market Share Pie Chart            | ![Market Share Pie Chart](assets/market_share_pie_chart.png)            |
+| Price vs Competition Scatter Plot | ![Price vs Competition Scatter Plot](assets/price_vs_competition.png)   |
+| Premium Category Bar Chart        | ![Premium Category Bar Chart](assets/premium_category_bar_chart.png)    |
+
 ---
 
 ## 🚀 Quick Start
